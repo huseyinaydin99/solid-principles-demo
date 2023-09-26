@@ -160,10 +160,3 @@ SOLID Yazılım geliştirme prensipleri.
  ➡️ Bağımlılık Tersine Çevirme
     Bileşenler soyutlamalara bağlı olmalıdır,
     somutlara bağlı olmamalıdır.
-NHibernate nedir?
-
-Ninject nedir?
-
-SingletonScope nedir?
-
-Araştırınız ödev. (:
