@@ -1,5 +1,5 @@
-# solid-principles-example 
-## Medium makalemi okuyunuz lütfen: 
+## solid-principles-example 
+### Medium makalemi okuyunuz lütfen: 
 
 SOLID Principle(Solid Prensipler)
 SOLID nedir?
